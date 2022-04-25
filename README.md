@@ -1,1 +1,1 @@
-<h1>Technology, IT, electronics, faith and more...</h1>
+<h1>Technology, IT, electronics, and more...</h1>
